@@ -15,6 +15,7 @@ f) Est-il possible d'atteindre le carré (m, n) du carré (k, l) avec un mouveme
 ![python](https://user-images.githubusercontent.com/73785628/100548112-6f5b5980-328c-11eb-9af8-33650542a69b.png)
 # Как пользоваться программой
 Открыть файл main.py в программе PyCharm (или в других подобных)
+
 Запустить программу
 Ввести в консоль координаты двух полей
 Консоль выведет информация о ходах шахматных фигур
